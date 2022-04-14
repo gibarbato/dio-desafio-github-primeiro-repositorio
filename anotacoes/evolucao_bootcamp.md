@@ -30,6 +30,6 @@
 
 - Desafio de projeto
 
-  Criando seu Primeiro Repositório no GitHub para Compartilhar Seu Progresso - finalizando
+  Criando seu Primeiro Repositório no GitHub para Compartilhar Seu Progresso - finalizando e entregando projeto
 
   
