@@ -372,59 +372,173 @@ Web-server
 
 <--------->
 
-
-
-<--------->
-
-
+O QUE SÃO STACKS
 
 <--------->
 
-
-
-<--------->
-
-
+Objetivos da aula
 
 <--------->
 
-
-
-<--------->
-
-
+![image-20220414221739769](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414221739769.png)
 
 <--------->
 
-
-
-<--------->
-
-
+![image-20220414221823089](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414221823089.png)
 
 <--------->
 
-
-
-<--------->
-
-
+![image-20220414221858517](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414221858517.png)
 
 <--------->
 
-
-
-<--------->
-
-
+![image-20220414225141203](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414225141203.png)
 
 <--------->
 
-
+![image-20220414225208607](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414225208607.png)
 
 <--------->
 
+![image-20220414225451524](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414225451524.png)
 
+<--------->
+
+![image-20220414225620436](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414225620436.png)
+
+<--------->
+
+![image-20220414225741925](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414225741925.png)
+
+<--------->
+
+![image-20220414230008057](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414230008057.png)
+
+<--------->
+
+![image-20220414230127353](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414230127353.png)
+
+<--------->
+
+![image-20220414230227485](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414230227485.png)
+
+<--------->
+
+![image-20220414230321801](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414230321801.png)
+
+<--------->
+
+![image-20220414230438841](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414230438841.png)
+
+<--------->
+
+![image-20220414230501877](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414230501877.png)
+
+<--------->
+
+LPs e termos
+
+<--------->
+
+Objetivos da aula
+
+<--------->
+
+![image-20220414231137637](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414231137637.png)
+
+<--------->
+
+![image-20220414231242618](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414231242618.png)
+
+<--------->
+
+![image-20220414231328263](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414231328263.png)
+
+<--------->
+
+![image-20220414231356699](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414231356699.png)
+
+<--------->
+
+![image-20220414231426756](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414231426756.png)
+
+<--------->
+
+Diversos termos comuns - Parte 1
+
+<--------->
+
+![image-20220414231808421](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414231808421.png)
+
+<--------->
+
+![image-20220414232721088](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414232721088.png)
+
+<--------->
+
+![image-20220414232759083](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414232759083.png)
+
+<--------->
+
+![image-20220414233252162](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414233252162.png)
+
+<--------->
+
+CONSTRUINDO A PRIMEIRA APLICAÇÃO
+
+<--------->
+
+Aula prática
+
+<--------->
+
+![image-20220414233435702](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414233435702.png)
+
+<--------->
+
+![image-20220414233522341](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414233522341.png)
+
+<--------->
+
+![image-20220414233543618](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414233543618.png)
+
+<--------->
+
+![image-20220414234518997](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414234518997.png)
+
+<--------->
+
+![image-20220414234655149](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414234655149.png)
+
+<--------->
+
+![image-20220414234834946](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414234834946.png)
+
+![image-20220414234950324](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414234950324.png)
+
+![image-20220414235012262](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414235012262.png)
+
+![image-20220414235046025](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414235046025.png)
+
+![image-20220414235130715](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414235130715.png)
+
+![image-20220414235215754](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414235215754.png)
+
+![image-20220414235255978](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414235255978.png)
+
+![image-20220414235320878](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414235320878.png)
+
+![image-20220414235404324](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414235404324.png)
+
+![image-20220414235435974](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414235435974.png)
+
+<--------->
+
+<--------->
+
+<--------->
+
+<--------->
 
 <--------->
 
