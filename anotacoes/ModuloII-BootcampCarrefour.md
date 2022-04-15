@@ -280,39 +280,95 @@ Objetivos da aula
 
 <--------->
 
-
-
-<--------->
-
-
+![image-20220414204630448](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414204630448.png)
 
 <--------->
 
-
-
-<--------->
-
-
+![image-20220414204910164](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414204910164.png)
 
 <--------->
 
-
-
-<--------->
-
-
+![image-20220414204943617](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414204943617.png)
 
 <--------->
 
-
-
-<--------->
-
-
+Browser
 
 <--------->
 
+![image-20220414205037068](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414205037068.png)
 
+<--------->
+
+![image-20220414205104271](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414205104271.png)
+
+<--------->
+
+![image-20220414210759654](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414210759654.png)
+
+<--------->
+
+![image-20220414211426356](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414211426356.png)
+
+<--------->
+
+![image-20220414211613919](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414211613919.png)
+
+<--------->
+
+Site, aplicativo e e-commerce
+
+<--------->
+
+![image-20220414212017672](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414212017672.png)
+
+<--------->
+
+![image-20220414212041859](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414212041859.png)
+
+<--------->
+
+![image-20220414212152456](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414212152456.png)
+
+<--------->
+
+![image-20220414212422067](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414212422067.png)
+
+<--------->
+
+![image-20220414212540574](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414212540574.png)
+
+<--------->
+
+Web-server
+
+<--------->
+
+![image-20220414213751759](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414213751759.png)
+
+<--------->
+
+![image-20220414213826882](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414213826882.png)
+
+<--------->
+
+![image-20220414213848895](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414213848895.png)
+
+<--------->
+
+![image-20220414213919738](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414213919738.png)
+
+<--------->
+
+![image-20220414214519433](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414214519433.png)
+
+<--------->
+
+![image-20220414214549034](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414214549034.png)
+
+<--------->
+
+![image-20220414215037150](C:\Users\gibar\AppData\Roaming\Typora\typora-user-images\image-20220414215037150.png)
 
 <--------->
 
